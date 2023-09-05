@@ -1,4 +1,4 @@
-<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://www.facebook.com/photo/?fbid=1871033219696001&set=a.199344726864867.png">
+<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://www.facebook.com/photo/?fbid=1871033219696001&set=a.199344726864867">
 
 Hallo 👋,
 
