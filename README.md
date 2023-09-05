@@ -1,4 +1,4 @@
-<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://github.com/daniynwa/DAY/blob/main/dani.jpg">
+<img width="1101" alt="Screenshot 2020-10-01 at 1" src="https://github.com/daniynwa/DAY/blob/main/dani.jpg">
 
 Hallo 👋,
 
